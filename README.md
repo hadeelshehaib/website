@@ -7,10 +7,4 @@ third
 
 ====================================
 
-create example branch
-
-**new edit
-in new branch
-
-
-edit localy
+update on master
